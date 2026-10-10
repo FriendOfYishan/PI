@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+results/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.synctex.gz

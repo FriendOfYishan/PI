@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "portable_changes": [
+    "resolve output directory relative to script"
+  ],
+  "unchanged_results": {
+    "summary.csv": "byte-identical",
+    "per_seed_summary.csv": "byte-identical",
+    "learning_curves.csv": "byte-identical",
+    "acquisition_summary.csv": "byte-identical",
+    "online_adaptation_summary.csv": "byte-identical",
+    "online_adaptation_per_seed.csv": "byte-identical",
+    "online_adaptation_acquisition.csv": "byte-identical",
+    "integrity_checks.json": "byte-identical"
+  },
+  "script_sha256": {
+    "run_correction.py": "9e0b938d525a72040fe1492f7fb9296de18a4e18a838e95b0d77de2b6e04f135",
+    "verify_correction.py": "68a68f5c7101dccb11a91d10052bd78be33401342a50438b5e7934cdb19da4ba",
+    "run_online_adaptation.py": "493223f16e5ae7a0c04e848fcc74535d9aac557f719830c2e145b87820567c53"
+  }
+}
