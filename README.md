@@ -1,6 +1,6 @@
 # PI: Passive Imitation
 
-Reproducible CPU-only experiments for **Imitation Holds a Key to Evolution: Localized Repair and Verified Skill Acquisition for Adaptive Agents**, by Kai Hu, Beijing International Studies University.
+Reproducible CPU-only experiments for **Imitation Holds a Key to Evolution: Localized Repair and Verified Skill Acquisition for Adaptive Agents**.
 
 This repository studies an architectural hypothesis: turn an observed discrepancy into a localized goal, select a candidate skill from observed effects or self-generated trials, test a small patch, audit the complete task, and retain conditioned evidence for future reuse.
 
