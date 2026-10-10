@@ -47,6 +47,6 @@ On the unseen tool revision, self-trial enumeration reaches 79.0%, exceeding PI.
 
 The public scripts preserve the original controller logic. Only the output directory was made portable. A release check compares deterministic tables against the original experiment outputs. Complete generated logs can be recreated with the commands above.
 
-Contact: Kai Hu, 2025110321@stu.bisu.edu.cn.
 
-Publication status: research preprint in preparation; no ICML acceptance is claimed.
+
+
